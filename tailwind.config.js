@@ -7,6 +7,9 @@ module.exports = {
       "xl" : "1440px"
     },
     extend: {
+      fontSize : {
+        "para" : "18px"
+      },
       colors : {
         "soft_blue" : "hsl(215, 51%, 70%)",
         "cyan" : "hsl(178, 100%, 50%)",
